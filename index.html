@@ -9,6 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
+<link rel="icon" type="image/jpeg" href="img/logo.jpg">
 </head>
 <body data-page="home">
 
@@ -193,9 +194,43 @@
   </div>
 </section>
 
+<!-- GALLERY -->
+<section>
+  <div class="section-head">
+    <div>
+      <div class="eyebrow" data-i18n="home.gal_eye">— Galerie</div>
+      <h2 class="serif" data-i18n="home.gal_title">Bei uns, <em>in Bewegung.</em></h2>
+    </div>
+    <p data-i18n="home.gal_desc">Ein paar Eindrücke vom Grill, aus der Küche und vom Lokal.</p>
+  </div>
+
+  <div class="video-gallery">
+    <figure class="vid-card reveal">
+      <video src="img/vid-grill.mp4" autoplay muted loop playsinline poster="img/grill.jpg"></video>
+      <figcaption data-i18n="home.g1">Vom Grill</figcaption>
+    </figure>
+    <figure class="vid-card reveal">
+      <video src="img/vid-food.mp4" autoplay muted loop playsinline poster="img/platter.jpg"></video>
+      <figcaption data-i18n="home.g2">Frisch zubereitet</figcaption>
+    </figure>
+    <figure class="vid-card reveal">
+      <video src="img/vid-tavce.mp4" autoplay muted loop playsinline poster="img/platter.jpg"></video>
+      <figcaption data-i18n="home.g3">Tavče Gravče</figcaption>
+    </figure>
+    <figure class="vid-card reveal">
+      <video src="img/vid-effect.mp4" autoplay muted loop playsinline poster="img/interior-3.jpg"></video>
+      <figcaption data-i18n="home.g4">Im Lokal</figcaption>
+    </figure>
+    <figure class="vid-card reveal">
+      <video src="img/vid-outside.mp4" autoplay muted loop playsinline poster="img/interior-1.jpg"></video>
+      <figcaption data-i18n="home.g5">Unser Lokal · Thaliastraße</figcaption>
+    </figure>
+  </div>
+</section>
+
 <!-- CTA -->
 <section class="cta">
-  <h2 class="serif reveal" data-i18n="home.cta_title">Einen <em>Tisch</em> reservieren.</h2>
+  <h2 class="serif reveal" data-i18n="home.cta_title">Tisch <em>reservieren</em> oder anrufen.</h2>
   <a class="btn" href="reservierung.html" data-i18n="home.cta_btn">Zur Reservierung →</a>
 </section>
 
@@ -203,6 +238,7 @@
 <footer class="site-footer">
   <div class="footer-grid">
     <div>
+      <img src="img/logo.jpg" alt="Best Grill Haus" class="footer-logo">
       <div class="footer-brand serif">Best Grill Haus<small data-i18n="brand.tagline">seit 1983 · Wien</small></div>
       <p style="max-width:36ch; font-size:.9rem;" data-i18n="footer.about">Halal-Grillhaus in der Thaliastraße, seit 1983. Ćevapčići, Pleskavica und Grillplatten vom Holzkohlegrill.</p>
     </div>

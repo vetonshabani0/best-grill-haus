@@ -95,7 +95,11 @@ de: {
     j3_t:    "Mitten in Ottakring",
     j3_d:    "Thaliastraße 37, 1160 Wien. Täglich von 11:00 bis 23:00 Uhr geöffnet.",
     cta_title: "Tisch <em>reservieren</em> oder anrufen.",
-    cta_btn:   "Zur Reservierung →"
+    cta_btn:   "Zur Reservierung →",
+    gal_eye:   "— Galerie",
+    gal_title: "Bei uns, <em>in Bewegung.</em>",
+    gal_desc:  "Ein paar Eindrücke vom Grill, aus der Küche und vom Lokal.",
+    g1: "Vom Grill", g2: "Frisch zubereitet", g3: "Tavče Gravče", g4: "Im Lokal", g5: "Unser Lokal · Thaliastraße"
   },
 
   karte: {
@@ -266,7 +270,11 @@ en: {
     j3_t:    "In the heart of Ottakring",
     j3_d:    "Thaliastraße 37, 1160 Vienna. Open daily from 11:00 to 23:00.",
     cta_title: "Reserve a <em>table</em> or call us.",
-    cta_btn:   "Book a table →"
+    cta_btn:   "Book a table →",
+    gal_eye:   "— Gallery",
+    gal_title: "In <em>motion.</em>",
+    gal_desc:  "A few impressions from the grill, the kitchen and the room.",
+    g1: "From the grill", g2: "Freshly made", g3: "Tavče Gravče", g4: "Inside", g5: "Our place · Thaliastraße"
   },
   karte: {
     page_eye:   "— Menu",
@@ -434,7 +442,11 @@ sq: {
     j3_t:    "Në zemër të Ottakring-ut",
     j3_d:    "Thaliastraße 37, 1160 Vjenë. Hapur çdo ditë nga ora 11:00 deri në 23:00.",
     cta_title: "Rezervoni një <em>tryezë</em> ose na telefononi.",
-    cta_btn:   "Rezervoni tani →"
+    cta_btn:   "Rezervoni tani →",
+    gal_eye:   "— Galeria",
+    gal_title: "Te ne, <em>në lëvizje.</em>",
+    gal_desc:  "Disa pamje nga skara, kuzhina dhe lokali.",
+    g1: "Nga skara", g2: "Sapo përgatitur", g3: "Tavče Gravče", g4: "Brenda lokalit", g5: "Lokali ynë · Thaliastraße"
   },
   karte: {
     page_eye:   "— Menyja",
@@ -602,7 +614,11 @@ bs: {
     j3_t:    "U srcu Ottakringa",
     j3_d:    "Thaliastraße 37, 1160 Beč. Otvoreno svaki dan od 11:00 do 23:00.",
     cta_title: "Rezervišite <em>sto</em> ili nas pozovite.",
-    cta_btn:   "Rezerviši →"
+    cta_btn:   "Rezerviši →",
+    gal_eye:   "— Galerija",
+    gal_title: "Kod nas, <em>u pokretu.</em>",
+    gal_desc:  "Nekoliko utisaka sa roštilja, iz kuhinje i lokala.",
+    g1: "Sa roštilja", g2: "Svježe pripremljeno", g3: "Tavče Gravče", g4: "U lokalu", g5: "Naš lokal · Thaliastraße"
   },
   karte: {
     page_eye:   "— Jelovnik",
@@ -770,7 +786,11 @@ tr: {
     j3_t:    "Ottakring'in kalbinde",
     j3_d:    "Thaliastraße 37, 1160 Viyana. Her gün 11:00 – 23:00 arası açık.",
     cta_title: "<em>Masa</em> ayırtın ya da arayın.",
-    cta_btn:   "Rezervasyon →"
+    cta_btn:   "Rezervasyon →",
+    gal_eye:   "— Galeri",
+    gal_title: "Bizde, <em>hareket halinde.</em>",
+    gal_desc:  "Izgaradan, mutfaktan ve mekandan birkaç kare.",
+    g1: "Izgaradan", g2: "Taze hazırlandı", g3: "Tavče Gravče", g4: "Mekandan", g5: "Mekanımız · Thaliastraße"
   },
   karte: {
     page_eye:   "— Menü",
@@ -938,7 +958,11 @@ it: {
     j3_t:    "Nel cuore di Ottakring",
     j3_d:    "Thaliastraße 37, 1160 Vienna. Aperto tutti i giorni dalle 11:00 alle 23:00.",
     cta_title: "Prenota un <em>tavolo</em> o chiamaci.",
-    cta_btn:   "Prenotare →"
+    cta_btn:   "Prenotare →",
+    gal_eye:   "— Galleria",
+    gal_title: "Da noi, <em>in movimento.</em>",
+    gal_desc:  "Qualche impressione dalla griglia, dalla cucina e dalla sala.",
+    g1: "Dalla griglia", g2: "Appena preparato", g3: "Tavče Gravče", g4: "All'interno", g5: "Il nostro locale · Thaliastraße"
   },
   karte: {
     page_eye:   "— Menù",
