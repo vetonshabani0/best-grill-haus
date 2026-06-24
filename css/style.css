@@ -179,6 +179,14 @@ h1, h2, h3, h4 {
   animation: slow-zoom 18s ease-out forwards;
 }
 
+/* Video hero — fill the frame like the background image did */
+.hero-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
 @keyframes slow-zoom {
   to { transform: scale(1.0); }
 }
